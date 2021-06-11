@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpressserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettmadrid/NodeExpressServer.git"
+  },
+  "author": "Brett Madrid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brettmadrid/NodeExpressServer/issues"
+  },
+  "homepage": "https://github.com/brettmadrid/NodeExpressServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
